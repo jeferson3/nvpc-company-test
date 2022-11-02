@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/nvpc-company-test/static/js/main.61e31fcb.chunk.js",
+    "main.js.map": "/nvpc-company-test/static/js/main.61e31fcb.chunk.js.map",
+    "runtime-main.js": "/nvpc-company-test/static/js/runtime-main.f7f1d5b9.js",
+    "runtime-main.js.map": "/nvpc-company-test/static/js/runtime-main.f7f1d5b9.js.map",
+    "static/js/2.79c72c2f.chunk.js": "/nvpc-company-test/static/js/2.79c72c2f.chunk.js",
+    "static/js/2.79c72c2f.chunk.js.map": "/nvpc-company-test/static/js/2.79c72c2f.chunk.js.map",
+    "index.html": "/nvpc-company-test/index.html",
+    "static/js/2.79c72c2f.chunk.js.LICENSE.txt": "/nvpc-company-test/static/js/2.79c72c2f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f1d5b9.js",
+    "static/js/2.79c72c2f.chunk.js",
+    "static/js/main.61e31fcb.chunk.js"
+  ]
+}
