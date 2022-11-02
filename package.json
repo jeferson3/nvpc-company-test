@@ -1,4 +1,5 @@
 {
+  "homepage": "https://jeferson3.github.io/nvpc-company-test",
   "name": "nvpn-company-test",
   "version": "0.1.0",
   "private": true,
@@ -19,6 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -44,6 +47,7 @@
   "devDependencies": {
     "@types/react-dom": "^18.0.6",
     "@types/styled-components": "^5.1.26",
+    "gh-pages": "^4.0.0",
     "styled-components": "^5.3.3"
   }
 }
